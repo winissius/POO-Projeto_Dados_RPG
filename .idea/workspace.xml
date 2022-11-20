@@ -4,16 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cb4afcd5-1f2f-4b8e-a4ff-959454e5254d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/D12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/D20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/D6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dados.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TesteRandom.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="cb4afcd5-1f2f-4b8e-a4ff-959454e5254d" name="Changes" comment="Class creation and tests">
+      <change afterPath="$PROJECT_DIR$/src/JogoDadosRPG.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/README.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,6 +86,14 @@
       <option name="presentableId" value="Default" />
       <updated>1668953688700</updated>
     </task>
+    <task id="LOCAL-00001" summary="Class creation and tests">
+      <created>1668959005163</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1668959005163</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -105,5 +106,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Class creation and tests" />
+    <option name="LAST_COMMIT_MESSAGE" value="Class creation and tests" />
   </component>
 </project>
