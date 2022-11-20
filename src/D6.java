@@ -12,7 +12,7 @@ public class D6 extends Dados{
     @Override
     public String rolar() {
         String roll = "";
-        for(int i = 0; i < this.lados; i++){
+        for(int i = 0; i < this.quantidade; i++){
             int r = (int) ((Math.random() * (this.lados)) + 1);
             roll += r + " ";
         }
