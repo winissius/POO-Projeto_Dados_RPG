@@ -15,3 +15,4 @@ public class JogoDadosRPG {
     public JogoDadosRPG() {
         this.dadosrpg = new ArrayList<Dados>();
 }
+}
