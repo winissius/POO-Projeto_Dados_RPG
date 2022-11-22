@@ -9,8 +9,14 @@ Projeto utilizando os conceitos de:
 
 ## Alunos
 
-* @Winissius Machado
-* @Bernarndo
+* Nome: Bernardo Lamers
+* RA:1112022204856
+
+* Nome: Otavio Luigi Paiola
+* RA: 1112022200458
+
+* Nome: Winissius Machado
+* RA: 1112022203633
 
 ## Descrição
 
