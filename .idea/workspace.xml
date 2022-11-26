@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cb4afcd5-1f2f-4b8e-a4ff-959454e5254d" name="Changes" comment="Adição de interface gráfica.&#10;Adição de diagramas UML.">
+    <list default="true" id="cb4afcd5-1f2f-4b8e-a4ff-959454e5254d" name="Changes" comment="Teste final.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/D6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/D6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JogoDadosRPG.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JogoDadosRPG.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +35,7 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/winis/IdeaProjects/POO - Projeto Dados RPG&quot;
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/winis/OneDrive/Área de Trabalho&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -75,10 +73,10 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Unnamed" />
-      <item itemvalue="Application.JogoDadosRPG" />
       <item itemvalue="Application.D6" />
+      <item itemvalue="Application.JogoDadosRPG" />
       <item itemvalue="Application.TesteRandom" />
+      <item itemvalue="Application.Unnamed" />
     </list>
     <recent_temporary>
       <list>
@@ -139,7 +137,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669154735497</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Teste final.">
+      <created>1669496569229</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1669496569229</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -160,6 +165,7 @@
     <MESSAGE value="Criação da classe que irá abrigar as demais classes e a chamada de main. Correção de sintaxe.&#10;Alteração de erros na classe D6." />
     <MESSAGE value="Adição de informações sobre os membos do grupo no README" />
     <MESSAGE value="Adição de interface gráfica.&#10;Adição de diagramas UML." />
-    <option name="LAST_COMMIT_MESSAGE" value="Adição de interface gráfica.&#10;Adição de diagramas UML." />
+    <MESSAGE value="Teste final." />
+    <option name="LAST_COMMIT_MESSAGE" value="Teste final." />
   </component>
 </project>
