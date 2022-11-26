@@ -1,5 +1,7 @@
 public class D6 extends Dados{
 
+    private static final long serialVersionUID = 1L;
+
     public D6(String cor, String dono, int quantidade) {
         super(cor, dono, quantidade);
         this.lados = 6;
